@@ -1,6 +1,6 @@
 # Financial Data Science Lab
 
-[![Research checks](https://github.com/satmanpersonal/financial-data-science-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/satmanpersonal/financial-data-science-lab/actions/workflows/ci.yml)
+[![Research checks](https://github.com/ShaneTwomey/financial-data-science-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/ShaneTwomey/financial-data-science-lab/actions/workflows/ci.yml)
 
 **Can a more complex model forecast unemployment better than simply predicting no change?**
 
@@ -70,7 +70,7 @@ the weaknesses found, changes made, and remaining limits.
 Use Python **3.13** for the locked reference environment. No API key is needed.
 
 ```console
-git clone https://github.com/satmanpersonal/financial-data-science-lab.git
+git clone https://github.com/ShaneTwomey/financial-data-science-lab.git
 cd financial-data-science-lab
 python -m venv .venv
 ```
